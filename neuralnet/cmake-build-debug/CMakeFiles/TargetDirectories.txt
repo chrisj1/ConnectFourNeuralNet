@@ -1,0 +1,3 @@
+/Users/chrisjerrett/Desktop/connectfour/neuralnet/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/chrisjerrett/Desktop/connectfour/neuralnet/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/chrisjerrett/Desktop/connectfour/neuralnet/cmake-build-debug/CMakeFiles/neuralnet.dir
